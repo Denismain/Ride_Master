@@ -1,0 +1,23 @@
+{
+  "__version__": "1.0.4",
+  "layer": [
+    {
+      "name": "BG",
+      "value": 524288
+    }
+  ],
+  "physics": {
+    "collisionMatrix": {
+      "0": 1
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "general": {
+    "designResolution": {
+      "width": 680,
+      "height": 640,
+      "fitHeight": false,
+      "fitWidth": true
+    }
+  }
+}
